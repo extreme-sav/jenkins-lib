@@ -12,8 +12,8 @@
     "telegramChatId": "UNKNOWN_ID"
   },
   "stages": {
-    "initSteps": false,
-    "sonarqube": false,
+    "initSteps": true,
+    "sonarqube": true,
     "bdd": false,
     "syntaxCheck": false,
     "edtValidate": false,
