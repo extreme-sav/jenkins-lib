@@ -12,7 +12,7 @@
     "telegramChatId": "UNKNOWN_ID"
   },
   "stages": {
-    "initSteps": false,
+    "initSteps": true,
     "sonarqube": false,
     "bdd": false,
     "syntaxCheck": true,
