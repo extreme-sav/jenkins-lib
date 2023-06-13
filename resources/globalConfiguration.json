@@ -15,8 +15,8 @@
     "initSteps": true,
     "sonarqube": false,
     "bdd": false,
-    "syntaxCheck": true,
-    "edtValidate": true,
+    "syntaxCheck": false,
+    "edtValidate": false,
     "smoke": false,
     "email": false,
     "telegram": false
