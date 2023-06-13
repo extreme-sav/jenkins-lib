@@ -6,18 +6,18 @@
   "sourceFormat": "designer",
   "defaultBranch": "main",
   "secrets": {
-    "storagePath": extreme-sav_jenkins-lib_STORAGE_PATH,
-    "storage": extreme-sav_project1_STORAGE_USER,
+    "storagePath": "extreme-sav_jenkins-lib_STORAGE_PATH",
+    "storage": "extreme-sav_project1_STORAGE_USER",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
   },
   "stages": {
     "initSteps": true,
-    "sonarqube": false,
-    "bdd": false,
-    "syntaxCheck": false,
-    "edtValidate": false,
-    "smoke": false,
+    "sonarqube": true,
+    "bdd": true,
+    "syntaxCheck": true,
+    "edtValidate": true,
+    "smoke": true,
     "email": false,
     "telegram": false
   },
