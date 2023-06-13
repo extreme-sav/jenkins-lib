@@ -6,8 +6,8 @@
   "sourceFormat": "designer",
   "defaultBranch": "main",
   "secrets": {
-    "storagePath": "extreme-sav_project1_STORAGE_USER",
-    "storage": "UNKNOWN_ID",
+    "storagePath": "extreme-sav_jenkins-lib_STORAGE_PATH",
+    "storage": "extreme-sav_project1_STORAGE_USER",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
   },
