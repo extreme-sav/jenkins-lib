@@ -2,7 +2,7 @@
   "$schema": "schema.json",
   "v8version": "8.3",
   "edtVersion": "2022.2.5:x86_64",
-  "srcDir": "src/cf",
+  "srcDir": "Управляемое_приложение_SQL/src",
   "sourceFormat": "designer",
   "defaultBranch": "main",
   "secrets": {
