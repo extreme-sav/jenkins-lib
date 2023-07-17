@@ -1,12 +1,12 @@
 {
   "$schema": "schema.json",
   "v8version": "8.3",
-  "edtVersion": "",
+  "edtVersion": "2022.2.5:x86_64",
   "srcDir": "src/cf",
   "sourceFormat": "designer",
   "defaultBranch": "main",
   "secrets": {
-    "storagePath": "UNKNOWN_ID",
+    "storagePath": "extreme-sav_project1_STORAGE_USER",
     "storage": "UNKNOWN_ID",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
