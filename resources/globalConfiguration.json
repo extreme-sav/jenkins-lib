@@ -3,7 +3,7 @@
   "v8version": "8.3",
   "edtVersion": "",
   "srcDir": "src/cf",
-  "sourceFormat": "designer ",
+  "sourceFormat": "designer",
   "defaultBranch": "main",
   "secrets": {
     "storagePath": "UNKNOWN_ID",
